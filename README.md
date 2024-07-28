@@ -32,4 +32,4 @@ Once the application is running, you can interact with it via a command-line int
 - Encapsulation, inheritance, and polymorphism are key Object-Oriented Programming principles applied throughout the project.
 
 ## Testing (JUnit)
-- JUnit is used to write and run tests for the application, ensuring the correctness of various functionalities.
+- JUnit is used to write and run tests for the application, ensuring the correctness of various functionalities......
