@@ -29,7 +29,7 @@ Once the application is running, you can interact with it via a command-line int
 ### Collections  
 - In this project, ArrayList, TreeMap, HashSet are used to manage collections of films and actors.
 ### Object-oriented programming principles  
-- Encapsulation, inheritance, and polymorphism are key Object-Oriented Programming principles applied throughout the project.
+- Encapsulation, inheritance, abstraction and polymorphism are key Object-Oriented Programming principles applied throughout the project.
 
 ## Testing (JUnit)
 - JUnit is used to write and run tests for the application, ensuring the correctness of various functionalities.
